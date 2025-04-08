@@ -1,0 +1,17 @@
+<resources>
+    <string name="mobility_title">Mobilität</string>
+    <string name="mobility_name_publicTransport"/>
+    <string name="mobility_name_carSharing"/>
+    <string name="mobility_name_taxi"/>
+    <string name="mobility_name_bus"/>
+    <string name="mobility_name_tram"/>
+    <string name="mobility_name_scooter"/>
+    <string name="mobility_name_train"/>
+    <string name="mobility_name_bike"/>
+    <string name="mobility_name_subway"/>
+    <string name="mobility_name_bicycle"/>
+    <string name="mobility_name_cablecar"/>
+    <string name="mobility_name_airplane"/>
+    <string name="mobility_name_regiotrain"/>
+    <string name="mobility_name_longdistancetrain"/>
+</resources>
